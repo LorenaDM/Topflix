@@ -1,0 +1,197 @@
+{
+  "categorias": [
+    {
+      "titulo": "Blurryface",
+      "link": "https://music.youtube.com/playlist?list=OLAK5uy_mWtWynXa5NeLQEJjvrmVZmmO48G4eBBWg",
+      "cor": "#d52e35",
+      "link_extra": {
+        "text": "O disco de Rock mais vendido da década",
+        "url": "https://www.tenhomaisdiscosqueamigos.com/2019/11/17/twenty-one-pilots-disco-mais-vendido/"
+      },
+      "videos": [
+        {
+          "titulo": "Stressed Out",
+          "url": "https://youtu.be/Num36NDVBeM"
+        },
+        {
+          "titulo": "Ride",
+          "url": "https://youtu.be/Pw-0pbY9JeU"
+        },
+        {
+          "titulo": "Heavydirtysoul",
+          "url": "https://youtu.be/r_9Kf0D5BTs?list=OLAK5uy_mWtWynXa5NeLQEJjvrmVZmmO48G4eBBWg"
+        },
+        {
+          "titulo": "Fairly Local",
+          "url": "https://youtu.be/HDI9inno86U"
+        },
+        {
+          "titulo": "Tear In My Heart",
+          "url": "https://youtu.be/nky4me4NP70?list=OLAK5uy_mWtWynXa5NeLQEJjvrmVZmmO48G4eBBWg"
+        },
+        {
+          "titulo": "Lane Boy",
+          "url": "https://youtu.be/ywvRgGAd2XI?list=OLAK5uy_mWtWynXa5NeLQEJjvrmVZmmO48G4eBBWg"
+        },
+        {
+          "titulo": "Polarize",
+          "url": "https://youtu.be/MiPBQJq49xk?list=OLAK5uy_mWtWynXa5NeLQEJjvrmVZmmO48G4eBBWg"
+        }        
+      ]
+    },
+    {
+      "titulo": "Vessel",
+      "cor": "#1979a9",
+      "link_extra": {
+        "text": "Obra Prima",
+        "url": "https://br.nacaodamusica.com/especiais/throwback/seis-anos-twenty-one-pilots-vessel/"
+      },
+      "videos": [
+        {
+          "titulo": "Ode To Sleep",
+          "url": "https://youtu.be/2OnO3UXFZdE?list=PL3roRV3JHZzbTm9p9_u_131CDQpHe231O"
+        },
+        {
+          "titulo": "Holding On To You",
+          "url": "https://youtu.be/ktBMxkLUIwY?list=PL3roRV3JHZzbTm9p9_u_131CDQpHe231O"
+        },
+        {
+          "titulo": "Migraine",
+          "url": "https://youtu.be/Bs92ejAGLdw?list=PL3roRV3JHZzbTm9p9_u_131CDQpHe231O"
+        },
+        {
+          "titulo": "House of Gold",
+          "url": "https://youtu.be/mDyxykpYeu8?list=PL3roRV3JHZzbTm9p9_u_131CDQpHe231O"
+        }, 
+        {
+          "titulo": "Car Radio",
+          "url": "https://youtu.be/92XVwY54h5k?list=PL3roRV3JHZzbTm9p9_u_131CDQpHe231O"
+        },
+        {
+          "titulo": "Truce",
+          "url": "https://youtu.be/92XVwY54h5k?list=PL3roRV3JHZzbTm9p9_u_131CDQpHe231O"
+        }
+      ]
+    },
+    {
+      "titulo": "Self Titled Twenty One Pilots ",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "ZERO defeitos",
+        "url": "https://twentyonepilots.fandom.com/wiki/Twenty_One_Pilots_(album)"
+      },
+      "videos": [
+        {
+          "titulo": "Taxi a Cab",
+          "url": "https://youtu.be/M2wB0skdJ5o?list=OLAK5uy_kLlpzRsc1GRlT8ymfzXLrQUS17jPeQSgU"
+        },
+        {
+          "titulo": "A Car, a Torch, a Death",
+          "url": "https://youtu.be/OLKlFw2ab1M?list=OLAK5uy_kLlpzRsc1GRlT8ymfzXLrQUS17jPeQSgU"
+        },
+        {
+          "titulo": "March To the Sea",
+          "url": "https://youtu.be/VE6eRwMFx8E?list=OLAK5uy_kLlpzRsc1GRlT8ymfzXLrQUS17jPeQSgU"
+        },
+        {
+          "titulo": "Oh Ms Believer",
+          "url": "https://youtu.be/IpiaYAGjXhU?list=OLAK5uy_kLlpzRsc1GRlT8ymfzXLrQUS17jPeQSgU"
+        },
+        {
+          "titulo": "Addict With A Pen",
+          "url": "https://youtu.be/0PqpRnpE4yg?list=OLAK5uy_kLlpzRsc1GRlT8ymfzXLrQUS17jPeQSgU"
+        },
+        {
+          "titulo": "Fall Away",
+          "url": "https://youtu.be/ypMACz5ePNg?list=OLAK5uy_kLlpzRsc1GRlT8ymfzXLrQUS17jPeQSgU"
+        }
+      ]
+    },
+    {
+      "titulo": "Covers",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Can't Help Falling In Love",
+          "url": "https://youtu.be/6ThQkrXHdh4"
+        },
+        {
+          "titulo": "Mad World",
+          "url": "https://youtu.be/_VzgrX3_gfI?list=PLnR_mHLl8mfguVPA_c2wFToHA1iCVNe8_"
+        },
+        {
+          "titulo": "Cancer",
+          "url": "https://youtu.be/yw6i1SAHetc"
+        },
+        {
+          "titulo": "Summertime Sadness",
+          "url": "https://youtu.be/W_G3mmJw5A0"
+        }
+      ]
+    },
+    {
+      "titulo": "Trench",
+      "cor": "#e3cb04",
+      "link_extra": {
+        "text": "Dema don't control us",
+        "url": "https://www.omelete.com.br/musica/criticas/twenty-one-pilots-trench"
+      },
+      "videos": [
+        {
+          "titulo": "The Hype",
+          "url": "https://youtu.be/Io2hbcrAYBw?list=PL3roRV3JHZzYrywUGDSoIeF7J9P4sWIba"
+        },
+        {
+          "titulo": "Chlorine",
+          "url": "https://youtu.be/eJnQBXmZ7Ek?list=PL3roRV3JHZzYrywUGDSoIeF7J9P4sWIba"
+        },
+        {
+          "titulo": "Jumpsuit",
+          "url": "https://youtu.be/UOUBW8bkjQ4?list=PL3roRV3JHZzYrywUGDSoIeF7J9P4sWIba"
+        },
+        {
+          "titulo": "My Blood",
+          "url": "https://youtu.be/8mn-FFjIbo8?list=PL3roRV3JHZzYrywUGDSoIeF7J9P4sWIba"
+        },
+        {
+          "titulo": "Levitate",
+          "url": "https://youtu.be/uv_1AKKKJnk?list=PL3roRV3JHZzYrywUGDSoIeF7J9P4sWIba"
+        }
+      ]
+    },
+    {
+      "titulo": "Regional At Best",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Good Old Days",
+        "url": "https://twentyonepilots.fandom.com/wiki/Regional_at_Best"
+      },
+      "videos": [
+        {
+          "titulo": "Ruby",
+          "url": "https://youtu.be/eZ0Bj698pUc?list=PLLbFbZQoGl93OvsfpRATGGY9XLZjLQrCT"
+        },
+        {
+          "titulo": "Trees",
+          "url": "https://youtu.be/Yqv4hQ-A4a4?list=PLLbFbZQoGl93OvsfpRATGGY9XLZjLQrCT"
+        },
+        {
+          "titulo": "Lovely",
+          "url": "https://youtu.be/2YGCoNfuRn4"
+        },
+        {
+          "titulo": "Glowing Eyes",
+          "url": "https://youtu.be/K9sZyS6d23E?list=PLLbFbZQoGl93OvsfpRATGGY9XLZjLQrCT"
+        },
+        {
+          "titulo": "Kitchen Sink",
+          "url": "https://youtu.be/aTOQttFQbuM?list=PLLbFbZQoGl93OvsfpRATGGY9XLZjLQrCT"
+        },
+        {
+          "titulo": "Forest",
+          "url": "https://youtu.be/fm5kiVEklGA?list=PLLbFbZQoGl93OvsfpRATGGY9XLZjLQrCT"
+        }
+      ]
+    }
+  ]
+}

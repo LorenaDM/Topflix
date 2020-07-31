@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+        "id": 1,
+        "nome": "EP's",
+        "descricao": "#TØP",
+        "cor": "orange"
+        },
+        {
+        "id": 2,
+        "nome": "Solos",
+        "descricao": "Josh Dun",
+        "cor": "Purple"
+        }
+    ]
+}

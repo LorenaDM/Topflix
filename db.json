@@ -1,0 +1,22 @@
+  {
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "EP'S",
+      "cor": "Purple",
+      "link_extra": {
+        "text": "#TBT",
+        "url": "https://youtu.be/lXYZSDled4c"
+      }
+  },
+    {
+    "id": 2,
+    "titulo": "Solos",
+    "cor": "Orange",
+    "link_extra": {
+      "text": "Josh Dun",
+      "url": "https://youtu.be/lXYZSDled4c"
+    }
+  }
+ ]
+}
